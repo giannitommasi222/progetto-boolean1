@@ -1,0 +1,70 @@
+body{
+  background-image: url('https://www.pianetamamma.it/2021/07/26/monopattini-elettrici-per-bambini_900x760.jpg');
+  background-size: cover;
+}
+
+header{
+  text-align: center;
+}
+
+#BOX{
+  filter:alpha(opacity=10);
+  background-color: rgba(128,128,128,0.5);
+  border-radius: 2%;
+  padding: 8px;
+}
+
+
+
+
+.container{
+  width: 1000px;
+  margin: auto;
+}
+
+.logo{
+  width:220px;
+}
+
+.logo-text{
+  color:green;
+  text-align: center;
+}
+
+.riga-bottoni{
+  background-color:green;
+  text-align: center;
+}
+
+ul{
+  color:white;
+  text-align:left;
+}
+
+.poco-carico{
+  background-color:orange;
+  width: 80px;
+}
+
+.dio{
+  color:orange;
+}
+
+.carico{
+  background-color: green;
+  width: 400px;
+}
+
+.verde1{
+  color:green;
+}
+
+.scarico{
+  background-color: red;
+  width:50px;
+}
+
+.rosso1{
+  color:red;
+
+}
